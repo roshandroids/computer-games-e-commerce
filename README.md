@@ -35,7 +35,7 @@ To run the website locally, follow these steps:
    cd computer-games-ecommerce
    ```
 
-3. Open the `ComputerGames/product.html` file in your web browser.
+3. Open the `product.html` file in your web browser.
 
 ## Product Page
 
@@ -59,4 +59,4 @@ If you'd like to contribute to the development of this e-commerce site, feel fre
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+N/A
