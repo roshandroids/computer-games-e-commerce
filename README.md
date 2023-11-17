@@ -35,7 +35,7 @@ To run the website locally, follow these steps:
    cd computer-games-ecommerce
    ```
 
-3. Open the `index.html` file in your web browser.
+3. Open the `ComputerGames/product.html` file in your web browser.
 
 ## Product Page
 
