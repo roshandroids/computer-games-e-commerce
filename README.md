@@ -26,7 +26,7 @@ To run the website locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone [repository_url]
+   git clone git@github.com:SrijeshKhanal/computer-games-e-commerce.git
    ```
 
 2. Open the project folder:
